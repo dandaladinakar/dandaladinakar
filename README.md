@@ -1,22 +1,9 @@
-# ✫ About Me:
-👋 Hola! I'm Dinakar Reddy
+# 👋 Hola! I'm **Dinakar Reddy**  
+### 🌟 Software Testing Specialist | Passionate Quality Advocate 🚀
 
-⚡ **Software Testing Specialist | Passionate Quality Advocate**
+Welcome to my **Testing Hub**! I'm **Dinakar Reddy**, a Software Testing Specialist who believes in **quality** and **precision**. With 9 months of experience in both **manual** and **automation testing**, I’m currently focused on the **automotive domain** with the **Towner project**.
 
-With 7 months of diverse experience in manual and automation testing, I’m dedicated to raising the bar for software reliability. Currently, I’m deeply engaged in the automotive industry, where I contribute to the Towner project within the transportation domain, driving precision and excellence.
-
-## 🚀 What I’m Currently Focused On
-- **Towner Project**: Ensuring top-notch quality for automotive software through rigorous testing and proactive scenario analysis
-- Developing detailed, high-coverage test cases that simulate real-world user conditions
-
-## 🤝 Looking to Collaborate On
-- **Automation Frameworks**: Let’s create more efficient testing pipelines together
-- **QA Strategy Discussions**: Open to brainstorming and knowledge-sharing sessions
-
-## 💡 Ask Me About
-- Balancing manual and automation testing for maximum efficiency
-- Streamlining test case writing for clarity and impact
-- Leveraging tools like Selenium, TestNG, Cucumber, and Rest Assured
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dark_prince_dinakar) 
@@ -42,20 +29,21 @@ With 7 months of diverse experience in manual and automation testing, I’m dedi
 
 **Testing Focus**: Web Testing, API Testing, Mobile Testing (Manual)
 
-## 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dandaladinakar&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/dandaladinakar)
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dandaladinakar&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1D2B34)](https://github.com/dandaladinakar)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dandaladinakar&theme=gruvbox&hide_border=true&layout=compact&langs_count=10)](https://github.com/dandaladinakar)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dandaladinakar&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dandaladinakar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dandaladinakar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies:
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dandaladinakar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/dandaladinakar)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dandaladinakar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🔝 Top Contributed Repo:
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=dandaladinakar&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true)](https://github.com/dandaladinakar)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dandaladinakar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dandaladinakar&icon=10&color=8)](https://visitcount.itsvg.in)
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=dandaladinakar&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
