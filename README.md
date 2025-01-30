@@ -1,7 +1,7 @@
 # 👋 Hola! I'm **Dinakar Reddy**  
 ### 🌟 Software Testing Specialist | Passionate Quality Advocate 🚀
 
-Welcome to my **Testing Hub**! I'm **Dinakar Reddy**, a Software Testing Specialist who believes in **quality** and **precision**. With 11 months of experience in both **manual** and **automation testing**, I’m currently focused on the **automotive domain** with the **Towner project - Taxi Booking**.
+Welcome to my **Testing Hub**! I'm **Dinakar Reddy**, a Software Testing Specialist who believes in **quality** and **precision**. With 11 months of experience in both **manual** and **automation testing**, I’m currently focused on the **automotive domain** with the **Towner project - Taxi Booking Application**.
 
 ---
 
