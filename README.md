@@ -1,71 +1,99 @@
-# 👋 Hola! I'm **Dinakar Reddy**  
-### 🌟 Software Testing Specialist | Passionate Quality Advocate 🚀
-
-Welcome to my **Testing Hub**! I'm **Dinakar Reddy**, a Software Testing Specialist who believes in **quality** and **precision**. With 1.7 Year of experience in both **manual** and **automation testing**, I’m currently focused on the **automotive domain** with the **Retail Leasing project**.
+<h1 align="center">Hi 👋, I'm Dinakar Reddy</h1>
+<h3 align="center">QA Automation Engineer | Playwright | API Testing | SDET Track</h3>
 
 ---
 
-## 💻 Tech Stack:
+## 👨‍💻 About Me
 
-### **Web Testing**
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+QA Automation Engineer with **3.4+ years of experience** in **Manual Testing, UI Automation, and API Testing**, focused on improving product quality through structured testing strategies and automation solutions.
 
-### **API Testing**
+UI Automation using **Playwright with JavaScript**  
+API Testing & Automation using **Postman and Newman**  
+Strong experience in **Functional, Regression, Smoke, Sanity, and End-to-End Testing**  
+Working on **Retail Leasing Management Platform (Real Estate Domain)** supporting workflow validation and business module testing  
+Building expertise toward **Automation Framework Development and CI/CD Integration (SDET Track)**  
+
+---
+
+## 🚀 Tech Stack
+
+### 🧪 UI Automation
+![Playwright](https://img.shields.io/badge/Playwright-%2300BFFF.svg?style=for-the-badge&logo=playwright&logoColor=white)
+
+### 🔗 API Testing & Automation
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-%23000000.svg?style=for-the-badge&logo=rest-assured&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-%23000000.svg?style=for-the-badge)
 
-### **Performance Testing**
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+### 💻 Programming
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Continuous Integration / Continuous Deployment (CI/CD)**
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 🧪 Testing Expertise
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-%23007ACC.svg?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-%23228B22.svg?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-%23FF8C00.svg?style=for-the-badge)
+![Sanity Testing](https://img.shields.io/badge/Sanity_Testing-%236A5ACD.svg?style=for-the-badge)
+![End-to-End Testing](https://img.shields.io/badge/End_to_End_Testing-%23B22222.svg?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-%231E90FF.svg?style=for-the-badge)
 
-### **Cross-Browser Testing**
-![BrowserStack](https://img.shields.io/badge/BrowserStack-%23FF6C37.svg?style=for-the-badge&logo=browserstack&logoColor=white)
-
-### **Test Frameworks**
-![TestNG](https://img.shields.io/badge/TestNG-%23007396.svg?style=for-the-badge&logo=testng&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-%2300FF7F.svg?style=for-the-badge&logo=cucumber&logoColor=white)
-
-### **Hybrid Testing Framework**
-![Hybrid Framework](https://img.shields.io/badge/Hybrid%20Framework-%2343B02A.svg?style=for-the-badge&logo=java&logoColor=white)
-
-### **Build Automation**
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### **Version Control**
+### 📦 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### **Programming Languages & Databases**
-![Java](https://img.shields.io/badge/Java-%23F7A600.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234879A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### **Design & Documentation**
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🎨 Design & Documentation
 ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dandaladinakar&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dandaladinakar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dandaladinakar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dandaladinakar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dandaladinakar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 📈 Currently Learning (SDET Track)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Automation Framework Design](https://img.shields.io/badge/Automation_Framework-%23000000.svg?style=for-the-badge)
+![CI/CD Pipelines](https://img.shields.io/badge/CI_CD_Pipelines-%232671E5.svg?style=for-the-badge)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dandaladinakar&icon=10&color=8)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dark_prince_dinakar_?igsh=MXNuMzRtOHp3M3Vwdw==) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinakar-reddy-softwaretester) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ddroriginals)
+## 📂 Featured Automation Work
+
+Playwright Automation Framework  
+API Automation using Postman + Newman  
+JavaScript Automation Practice Repo  
+GitHub Actions CI/CD Demo Project  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dandaladinakar&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dandaladinakar&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dandaladinakar&layout=compact&theme=radical)
+
+---
+
+## 📈 Current Learning Focus
+
+Advanced Playwright Framework Design  
+JavaScript for Automation Engineers  
+CI/CD Pipeline Integration  
+Automation Testing Architecture  
+
+---
+
+## 🎯 Career Direction
+
+QA Automation Engineer  
+SDET  
+Test Automation Framework Development  
+CI/CD Automation Integration  
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/dinakar-reddy-softwaretester)
